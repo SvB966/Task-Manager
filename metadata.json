@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Task Manager",
+  "description": "A modern, React-based task management dashboard featuring a calendar view, task tracking, and AI-powered schedule analysis.",
+  "requestFramePermissions": []
+}
